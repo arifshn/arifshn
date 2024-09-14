@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/harunnsimsekkk?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harun-simsek/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21889781) 
 
 # 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/Docker-%2302569B.svg?logo=Docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%2302569B.svg?logo=Docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?logo=Linux&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arifshn&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arifshn&theme=radical&hide_border=false)<br/>
