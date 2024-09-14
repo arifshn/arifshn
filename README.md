@@ -9,9 +9,9 @@
 # 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/Docker-%2302569B.svg?logo=Docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?logo=Linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?logo=Ubuntu&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arifshn&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arifshn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arifshn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshn&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arifshn&theme=radical&no-frame=true&no-bg=false&margin-w=4)
